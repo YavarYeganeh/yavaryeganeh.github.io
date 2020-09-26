@@ -92,8 +92,8 @@ body {
     line-height: 1.5;
     color: #212529;
     text-align: left;
-    background-color: rgb(236, 227, 216);
-    background-image: url("Wall-YY_c.gif");
+    background-color: rgba(236, 229, 216, 0.945);
+    /*background-image: url("Wall-YY_c.gif");
     background-repeat: repeat;
     background-attachment: local;
     background-size: 100% 100%;
