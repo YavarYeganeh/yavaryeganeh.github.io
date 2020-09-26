@@ -79,7 +79,8 @@ body {
   background-image: url("Wall-YY_c.gif");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: 100% 100%;
+  /*background-size: cover;*/
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
